@@ -17,7 +17,7 @@ The Personal Blog on IBM Cloud Static Web Apps is a static website built for sha
 2. Website Navigation
 
 2.1. Homepage
-The homepage is the entry point of the website. Here, you will find a list of the most recent blog posts. You can click on a blog post title to read the full post. Additionally, there may be navigation elements such as menus, tags, and a search bar to help you find specific content.	https://hariharanpgp.github.io/Nmprojects/
+The homepage is the entry point of the website. Here, you will find a list of the most recent blog posts. You can click on a blog post title to read the full post. Additionally, there may be navigation elements such as menus, tags, and a search bar to help you find specific content.
 
 2.2. Blog Posts
 When you click on a blog post title, you will be directed to the individual blog post page. Here, you can read the entire blog post. Depending on the design, there may be comments, sharing options, and author information at the bottom of the post.
